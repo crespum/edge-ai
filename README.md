@@ -6,19 +6,23 @@ A curated list of hardware, software, frameworks and other resources for Artific
 ## Contents
 - [Hardware](#hardware)
 - [Software](#software)
+- [Frameworks](#frameworks)
 - [Contributing](#other-interesting-resources)
 - [License](#license)
 
 # Hardware
-- [Edge TPU](https://cloud.google.com/edge-tpu/) - Google's
-- [Movidius](https://www.movidius.com) - Intel
-- [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/)
+- [Edge TPU](https://cloud.google.com/edge-tpu/) - Google’s purpose-built ASIC designed to run inference at the edge.
+- [Movidius](https://www.movidius.com) - Intel's SoC designed specifically for low power on-device computer vision and neural network applications.
+- [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/) - High-performance embedded system-on-module to unlock deep learning, computer vision, GPU computing, and graphics in network-constrained environments.
     - Jetson TX1
     - Jetson TX2
 
+# Frameworks
+- [TensorFlow Lite]() - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
+
 # Software
-- [Embedded Learning Library (ELL)](https://microsoft.github.io/ELL/) - Microsoft
-- [uTensor](https://github.com/uTensor) - mbed
+- [Embedded Learning Library (ELL)](https://github.com/Microsoft/ELL) - Microsoft's library to deploy intelligent machine-learned models onto resource constrained platforms and small single-board computers.
+- [uTensor](https://github.com/uTensor/uTensor) - AI inference library based on mbed (an RTOS for ARM chipsets) and TensorFlow.
 
 # Other interesting resources
 - 
