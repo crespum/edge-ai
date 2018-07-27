@@ -12,10 +12,12 @@ A curated list of hardware, software, frameworks and other resources for Artific
 
 # Hardware
 - [Edge TPU](https://cloud.google.com/edge-tpu/) - Google’s purpose-built ASIC designed to run inference at the edge.
-- [Movidius](https://www.movidius.com) - Intel's SoC designed specifically for low power on-device computer vision and neural network applications.
+- [Movidius](https://www.movidius.com) - Intel's family of SoCs designed specifically for low power on-device computer vision and neural network applications.
 - [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/) - High-performance embedded system-on-module to unlock deep learning, computer vision, GPU computing, and graphics in network-constrained environments.
     - Jetson TX1
     - Jetson TX2
+- [UP AI Edge](https://up-shop.org/25-up-ai-edge) - Line of products based on Intel Movidius VPUs and Intel Cyclone FPGAs.
+- [Artificial Intelligence Radio - Transceiver (AIR-T)]() - High-performance SDR seamlessly integrated with state-of-the-art deep learning hardware.
 
 # Frameworks
 - [TensorFlow Lite]() - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
