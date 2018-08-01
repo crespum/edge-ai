@@ -17,7 +17,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
     - Jetson TX1
     - Jetson TX2
 - [UP AI Edge](https://up-shop.org/25-up-ai-edge) - Line of products based on Intel Movidius VPUs and Intel Cyclone FPGAs.
-- [Artificial Intelligence Radio - Transceiver (AIR-T)]() - High-performance SDR seamlessly integrated with state-of-the-art deep learning hardware.
+- [Artificial Intelligence Radio - Transceiver (AIR-T)](https://www.crowdsupply.com/deepwave-digital/air-t) - High-performance SDR seamlessly integrated with state-of-the-art deep learning hardware.
 
 # Frameworks
 - [TensorFlow Lite]() - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
@@ -34,7 +34,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 # Contributing
 - Please check for duplicates first.
 - Keep descriptions short, simple and unbiased.
-- Please make an individual commit for each suggestion
+- Please make an individual commit for each suggestion.
 - Add a new category if needed.
 
 Thanks for your suggestions!
