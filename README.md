@@ -11,6 +11,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [License](#license)
 
 # Hardware
+- [OpenMV](http://docs.openmv.io) A deep learning camera that runs with MicroPython on ARM Cortex M6/M7
 - [Edge TPU](https://cloud.google.com/edge-tpu/) - Google’s purpose-built ASIC designed to run inference at the edge.
 - [Movidius](https://www.movidius.com) - Intel's family of SoCs designed specifically for low power on-device computer vision and neural network applications.
 - [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/) - High-performance embedded system-on-module to unlock deep learning, computer vision, GPU computing, and graphics in network-constrained environments.
