@@ -30,7 +30,8 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [Qualcomm Neural Processing SDK for AI](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk) - Libraries to developers run NN models on Snapdragon mobile platforms taking advantage of the CPU, GPU and/or DSP.
 
 # Other interesting resources
-- 
+- [Why Machine Learning on The Edge?](https://towardsdatascience.com/why-machine-learning-on-the-edge-92fac32105e6)
+- [Tutorial: Low Power Deep Learning on the OpenMV Cam](https://community.arm.com/innovation/b/blog/posts/low-power-deep-learning-on-openmv-cam)
 
 # Contributing
 - Please check for duplicates first.
