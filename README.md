@@ -11,7 +11,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [License](#license)
 
 # Hardware
-- [OpenMV](http://docs.openmv.io) A deep learning camera that runs with MicroPython on ARM Cortex M6/M7
+- [OpenMV](http://docs.openmv.io) - A deep learning camera that runs with MicroPython on ARM Cortex M6/M7
 - [Edge TPU](https://cloud.google.com/edge-tpu/) - Google’s purpose-built ASIC designed to run inference at the edge.
 - [Movidius](https://www.movidius.com) - Intel's family of SoCs designed specifically for low power on-device computer vision and neural network applications.
 - [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/) - High-performance embedded system-on-module to unlock deep learning, computer vision, GPU computing, and graphics in network-constrained environments.
@@ -22,7 +22,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [Kendryte K210](https://kendryte.com/) - Dual-core, RISC-V chip with convolutional neural network acceleration using 64 KLUs (Kendryte Arithmetic Logic Unit).
 
 # Frameworks
-- [TensorFlow Lite]() - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
+- [TensorFlow Lite](https://www.tensorflow.org/lite/) - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
 
 # Software
 - [Embedded Learning Library (ELL)](https://github.com/Microsoft/ELL) - Microsoft's library to deploy intelligent machine-learned models onto resource constrained platforms and small single-board computers.
