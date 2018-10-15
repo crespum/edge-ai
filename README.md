@@ -20,6 +20,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [UP AI Edge](https://up-shop.org/25-up-ai-edge) - Line of products based on Intel Movidius VPUs and Intel Cyclone FPGAs.
 - [Artificial Intelligence Radio - Transceiver (AIR-T)](https://www.crowdsupply.com/deepwave-digital/air-t) - High-performance SDR seamlessly integrated with state-of-the-art deep learning hardware.
 - [Kendryte K210](https://kendryte.com/) - Dual-core, RISC-V chip with convolutional neural network acceleration using 64 KLUs (Kendryte Arithmetic Logic Unit).
+- [GreenWaves GAP8](https://greenwaves-technologies.com/en/gap8-product/) - RISC-V-based chip with hardware acceleration for convolutional operations.
 
 # Frameworks
 - [TensorFlow Lite](https://www.tensorflow.org/lite/) - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
