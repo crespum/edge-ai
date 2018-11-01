@@ -11,7 +11,8 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [License](#license)
 
 # Hardware
-- [OpenMV](http://docs.openmv.io) - A deep learning camera that runs with MicroPython on ARM Cortex M6/M7
+- [OpenMV](http://docs.openmv.io) - A camera that runs with MicroPython on ARM Cortex M6/M7 and great support for computer vision algorithms.
+- [JeVois](http://jevois.org/) - A TensorFlow-enabled camera module.
 - [Edge TPU](https://cloud.google.com/edge-tpu/) - Google’s purpose-built ASIC designed to run inference at the edge.
 - [Movidius](https://www.movidius.com) - Intel's family of SoCs designed specifically for low power on-device computer vision and neural network applications.
 - [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/) - High-performance embedded system-on-module to unlock deep learning, computer vision, GPU computing, and graphics in network-constrained environments.
@@ -21,6 +22,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [Artificial Intelligence Radio - Transceiver (AIR-T)](https://www.crowdsupply.com/deepwave-digital/air-t) - High-performance SDR seamlessly integrated with state-of-the-art deep learning hardware.
 - [Kendryte K210](https://kendryte.com/) - Dual-core, RISC-V chip with convolutional neural network acceleration using 64 KLUs (Kendryte Arithmetic Logic Unit).
 - [GreenWaves GAP8](https://greenwaves-technologies.com/en/gap8-product/) - RISC-V-based chip with hardware acceleration for convolutional operations.
+- [Ultra96](https://www.96boards.ai/products/ultra96/) - Embedded development platform featuring a Xilinx UltraScale+ MPSoC FPGA.
 
 # Frameworks
 - [TensorFlow Lite](https://www.tensorflow.org/lite/) - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
@@ -29,6 +31,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [Embedded Learning Library (ELL)](https://github.com/Microsoft/ELL) - Microsoft's library to deploy intelligent machine-learned models onto resource constrained platforms and small single-board computers.
 - [uTensor](https://github.com/uTensor/uTensor) - AI inference library based on mbed (an RTOS for ARM chipsets) and TensorFlow.
 - [CMSIS NN](https://arm-software.github.io/CMSIS_5/NN/html/index.html) - A collection of efficient neural network kernels developed to maximize the performance and minimize the memory footprint of neural networks on Cortex-M processor cores.
+- [ARM Compute Library](https://developer.arm.com/technologies/compute-library) - Set of optimized functions for image processing, computer vision, and machine learning.
 - [Qualcomm Neural Processing SDK for AI](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk) - Libraries to developers run NN models on Snapdragon mobile platforms taking advantage of the CPU, GPU and/or DSP.
 
 # Other interesting resources
