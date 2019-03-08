@@ -24,6 +24,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
     - [Sipeed M1](http://en.dan.sipeed.com/) - Based on the Kendryte K210, the module adds WiFi connectivity and an external flash memory.
 - [GreenWaves GAP8](https://greenwaves-technologies.com/en/gap8-product/) - RISC-V-based chip with hardware acceleration for convolutional operations.
 - [Ultra96](https://www.96boards.ai/products/ultra96/) - Embedded development platform featuring a Xilinx UltraScale+ MPSoC FPGA.
+- [Apollo3 Blue](https://www.sparkfun.com/products/15170) - SparkFun Edge Development Board powered by a Cortex M4 from Ambiq Micro.
 
 # Frameworks
 - [TensorFlow Lite](https://www.tensorflow.org/lite/) - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
