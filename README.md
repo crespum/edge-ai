@@ -15,11 +15,11 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [JeVois](http://jevois.org/) - A TensorFlow-enabled camera module.
 - [Edge TPU](https://cloud.google.com/edge-tpu/) - Google’s purpose-built ASIC designed to run inference at the edge.
 - [Movidius](https://www.movidius.com) - Intel's family of SoCs designed specifically for low power on-device computer vision and neural network applications.
+    - [UP AI Edge](https://up-shop.org/25-up-ai-edge) - Line of products based on Intel Movidius VPUs (including Myriad 2 and Myriad X) and Intel Cyclone FPGAs.
 - [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/) - High-performance embedded system-on-module to unlock deep learning, computer vision, GPU computing, and graphics in network-constrained environments.
     - Jetson TX1
     - Jetson TX2
     - Jetson Nano
-- [UP AI Edge](https://up-shop.org/25-up-ai-edge) - Line of products based on Intel Movidius VPUs and Intel Cyclone FPGAs.
 - [Artificial Intelligence Radio - Transceiver (AIR-T)](https://www.crowdsupply.com/deepwave-digital/air-t) - High-performance SDR seamlessly integrated with state-of-the-art deep learning hardware.
 - [Kendryte K210](https://kendryte.com/) - Dual-core, RISC-V chip with convolutional neural network acceleration using 64 KLUs (Kendryte Arithmetic Logic Unit).
     - [Sipeed M1](http://en.dan.sipeed.com/) - Based on the Kendryte K210, the module adds WiFi connectivity and an external flash memory.
