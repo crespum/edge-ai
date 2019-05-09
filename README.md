@@ -40,6 +40,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [X-CUBE-AI](https://blog.st.com/stm32cubeai-neural-networks/) - Toolkit for generating NN optimiezed for STM32 MCUs.
 
 # Other interesting resources
+- [Benchmarking Edge Computing (May 2019)](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
 - [Why Machine Learning on The Edge?](https://towardsdatascience.com/why-machine-learning-on-the-edge-92fac32105e6)
 - [Tutorial: Low Power Deep Learning on the OpenMV Cam](https://community.arm.com/innovation/b/blog/posts/low-power-deep-learning-on-openmv-cam)
 
