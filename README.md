@@ -28,10 +28,9 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [Apollo3 Blue](https://www.sparkfun.com/products/15170) - SparkFun Edge Development Board powered by a Cortex M4 from Ambiq Micro.
 - [Google Coral](https://coral.withgoogle.com/products/dev-board/) - Development board which includes a Google Edge TPU coprocessor.
 
-# Frameworks
-- [TensorFlow Lite](https://www.tensorflow.org/lite/) - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
-
 # Software
+- [TensorFlow Lite](https://www.tensorflow.org/lite/) - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
+- [TensorFlow Lite for Microcontrollers](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/experimental/micro) - Port of TF Lite for microcontrollers and other devices with only kilobytes of memory. Born from a [merge with uTensor](https://os.mbed.com/blog/entry/uTensor-and-Tensor-Flow-Announcement/).
 - [Embedded Learning Library (ELL)](https://github.com/Microsoft/ELL) - Microsoft's library to deploy intelligent machine-learned models onto resource constrained platforms and small single-board computers.
 - [uTensor](https://github.com/uTensor/uTensor) - AI inference library based on mbed (an RTOS for ARM chipsets) and TensorFlow.
 - [CMSIS NN](https://arm-software.github.io/CMSIS_5/NN/html/index.html) - A collection of efficient neural network kernels developed to maximize the performance and minimize the memory footprint of neural networks on Cortex-M processor cores.
