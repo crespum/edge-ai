@@ -44,6 +44,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [Benchmarking Edge Computing (May 2019)](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
 - [Why Machine Learning on The Edge?](https://towardsdatascience.com/why-machine-learning-on-the-edge-92fac32105e6)
 - [Tutorial: Low Power Deep Learning on the OpenMV Cam](https://community.arm.com/innovation/b/blog/posts/low-power-deep-learning-on-openmv-cam)
+- [TinyML: Machine Learning with TensorFlow on Arduino and Ultra-Low Power Micro-Controllers](http://shop.oreilly.com/product/0636920254508.do) - O'Reilly book written by Pete Warden, Daniel Situnayake.
 
 # Contributing
 - Please check for duplicates first.
