@@ -11,7 +11,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [License](#license)
 
 # Hardware
-- [OpenMV](http://docs.openmv.io) - A camera that runs with MicroPython on ARM Cortex M6/M7 and great support for computer vision algorithms.
+- [OpenMV](http://docs.openmv.io) - A camera that runs with MicroPython on ARM Cortex M6/M7 and great support for computer vision algorithms. Now with [support for Tensorflow Lite too](https://openmv.io/blogs/news/tensorflow-lite-and-person-detection).
 - [JeVois](http://jevois.org/) - A TensorFlow-enabled camera module.
 - [Edge TPU](https://cloud.google.com/edge-tpu/) - Google’s purpose-built ASIC designed to run inference at the edge.
 - [Movidius](https://www.movidius.com) - Intel's family of SoCs designed specifically for low power on-device computer vision and neural network applications.
@@ -31,7 +31,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 
 # Software
 - [TensorFlow Lite](https://www.tensorflow.org/lite/) - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
-- [TensorFlow Lite for Microcontrollers](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/experimental/micro) - Port of TF Lite for microcontrollers and other devices with only kilobytes of memory. Born from a [merge with uTensor](https://os.mbed.com/blog/entry/uTensor-and-Tensor-Flow-Announcement/).
+- [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers) - Port of TF Lite for microcontrollers and other devices with only kilobytes of memory. Born from a [merge with uTensor](https://os.mbed.com/blog/entry/uTensor-and-Tensor-Flow-Announcement/).
 - [Embedded Learning Library (ELL)](https://github.com/Microsoft/ELL) - Microsoft's library to deploy intelligent machine-learned models onto resource constrained platforms and small single-board computers.
 - [uTensor](https://github.com/uTensor/uTensor) - AI inference library based on mbed (an RTOS for ARM chipsets) and TensorFlow.
 - [CMSIS NN](https://arm-software.github.io/CMSIS_5/NN/html/index.html) - A collection of efficient neural network kernels developed to maximize the performance and minimize the memory footprint of neural networks on Cortex-M processor cores.
