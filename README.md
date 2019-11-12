@@ -45,6 +45,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [Why Machine Learning on The Edge?](https://towardsdatascience.com/why-machine-learning-on-the-edge-92fac32105e6)
 - [Tutorial: Low Power Deep Learning on the OpenMV Cam](https://community.arm.com/innovation/b/blog/posts/low-power-deep-learning-on-openmv-cam)
 - [TinyML: Machine Learning with TensorFlow on Arduino and Ultra-Low Power Micro-Controllers](http://shop.oreilly.com/product/0636920254508.do) - O'Reilly book written by Pete Warden, Daniel Situnayake.
+- [tinyML Summit](https://www.tinymlsummit.org/) - Annual conference and monthly meetup celebrated in California, USA. Talks and slides are usually [available from the website](https://www.tinymlsummit.org/#meetups).
 
 # Contributing
 - Please check for duplicates first.
