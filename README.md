@@ -39,6 +39,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [Qualcomm Neural Processing SDK for AI](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk) - Libraries to developers run NN models on Snapdragon mobile platforms taking advantage of the CPU, GPU and/or DSP.
 - [X-CUBE-AI](https://blog.st.com/stm32cubeai-neural-networks/) - Toolkit for generating NN optimiezed for STM32 MCUs.
 - [Neural Network on Microcontroller (NNoM)](https://github.com/majianjia/nnom) - Higher-level layer-based Neural Network library specifically for microcontrollers. Support for CMSIS-NN.
+- [nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte K210 AI accelerator.
 
 # Other interesting resources
 - [Benchmarking Edge Computing (May 2019)](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
