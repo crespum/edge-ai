@@ -16,6 +16,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [Edge TPU](https://cloud.google.com/edge-tpu/) - Google’s purpose-built ASIC designed to run inference at the edge.
 - [Movidius](https://www.movidius.com) - Intel's family of SoCs designed specifically for low power on-device computer vision and neural network applications.
     - [UP AI Edge](https://up-shop.org/25-up-ai-edge) - Line of products based on Intel Movidius VPUs (including Myriad 2 and Myriad X) and Intel Cyclone FPGAs.
+    - [DepthAI](https://www.crowdsupply.com/luxonis/depthai) - An embedded platform for combining Depth and AI, built around Myriad X
 - [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/) - High-performance embedded system-on-module to unlock deep learning, computer vision, GPU computing, and graphics in network-constrained environments.
     - Jetson TX1
     - Jetson TX2
