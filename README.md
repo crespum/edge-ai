@@ -34,6 +34,8 @@ A curated list of hardware, software, frameworks and other resources for Artific
     - USB Accelerators
     - PCIe / M.2 modules
 - [Gyrfalcon Technology Lighspeeur](https://www.gyrfalcontech.ai/solutions/) - Family of chips optimized for edge computing.
+- [ARM microNPU](https://www.arm.com/products/silicon-ip-cpu/machine-learning/ethos-u55) - Processors designed
+to accelerate ML inference (being the first one the Ethos-U55).
 
 # Software
 - [TensorFlow Lite](https://www.tensorflow.org/lite/) - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
@@ -67,4 +69,3 @@ Thanks for your suggestions!
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Xabi Crespo](https://crespum.eu/) has waived all copyright and related or neighboring rights to this work.
-
