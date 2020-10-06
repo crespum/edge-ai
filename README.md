@@ -49,6 +49,7 @@ to accelerate ML inference (being the first one the Ethos-U55).
 - [Neural Network on Microcontroller (NNoM)](https://github.com/majianjia/nnom) - Higher-level layer-based Neural Network library specifically for microcontrollers. Support for CMSIS-NN.
 - [nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte K210 AI accelerator.
 - [deepC](https://github.com/ai-techsystems/dnnCompiler) - Deep learning compiler and inference framework targeted to embedded platform.
+- [uTVM](https://tvm.apache.org/2020/06/04/tinyml-how-tvm-is-taming-tiny) - *MicroTVM* is an open source tool to optimize tensor programs.
 
 # Other interesting resources
 - [Benchmarking Edge Computing (May 2019)](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
