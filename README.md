@@ -36,6 +36,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [Gyrfalcon Technology Lighspeeur](https://www.gyrfalcontech.ai/solutions/) - Family of chips optimized for edge computing.
 - [ARM microNPU](https://www.arm.com/products/silicon-ip-cpu/machine-learning/ethos-u55) - Processors designed to accelerate ML inference (being the first one the Ethos-U55).
 - [Espressif ESP32-S3](https://www.espressif.com/en/products/socs/esp32-s3) - SoC similar to the well-known ESP32 with support for AI acceleration (among many other interesting differences).
+- [Maxim MAX78000](https://www.maximintegrated.com/en/products/microcontrollers/MAX78000.html) - SoC based on a Cortex-M4 that includes a CNN accelerator.
 
 # Software
 - [TensorFlow Lite](https://www.tensorflow.org/lite/) - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
