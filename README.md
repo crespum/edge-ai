@@ -53,6 +53,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [deepC](https://github.com/ai-techsystems/dnnCompiler) - Deep learning compiler and inference framework targeted to embedded platform.
 - [uTVM](https://tvm.apache.org/2020/06/04/tinyml-how-tvm-is-taming-tiny) - *MicroTVM* is an open source tool to optimize tensor programs.
 - [Edge Impulse](https://edgeimpulse.com/) - Interactive platform to generate models that can run in microcontrollers. They are also quite active on social netwoks talking about recent news on EdgeAI/TinyML.
+- [Qeexo AutoML](https://qeexo.com/ml-platform/) - Interactive platform to generate AI models targetted to microcontrollers.
 
 # Other interesting resources
 - [Benchmarking Edge Computing (May 2019)](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
