@@ -22,10 +22,11 @@ A curated list of hardware, software, frameworks and other resources for Artific
     - Jetson TX2
     - Jetson Nano
 - [Artificial Intelligence Radio - Transceiver (AIR-T)](https://www.crowdsupply.com/deepwave-digital/air-t) - High-performance SDR seamlessly integrated with state-of-the-art deep learning hardware.
-- [Kendryte K210](https://kendryte.com/) - Dual-core, RISC-V chip with convolutional neural network acceleration using 64 KLUs (Kendryte Arithmetic Logic Unit).
+- [Kendryte K210](https://canaan.io/product/kendryteai) - Dual-core, RISC-V chip with convolutional neural network acceleration using 64 KLUs (Kendryte Arithmetic Logic Unit).
     - [Sipeed M1](http://en.dan.sipeed.com/) - Based on the Kendryte K210, the module adds WiFi connectivity and an external flash memory.
     - [M5StickV](https://docs.m5stack.com/#/en/core/m5stickv) - AIoT(AI+IoT) Camera powered by Kendryte K210
     - [UNIT-V](https://docs.m5stack.com/#/en/unit/unitv) - AI Camera powered by Kendryte K210 (lower-end M5StickV)
+- [Kendryte K510](https://canaan.io/product/kendryteai) - Tri-core RISC-V processor clocked with AI accelerators.
 - [GreenWaves GAP8](https://greenwaves-technologies.com/en/gap8-product/) - RISC-V-based chip with hardware acceleration for convolutional operations.
 - [Ultra96](https://www.96boards.ai/products/ultra96/) - Embedded development platform featuring a Xilinx UltraScale+ MPSoC FPGA.
 - [Apollo3 Blue](https://www.sparkfun.com/products/15170) - SparkFun Edge Development Board powered by a Cortex M4 from Ambiq Micro.
