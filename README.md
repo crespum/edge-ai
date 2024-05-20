@@ -57,6 +57,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [uTVM](https://tvm.apache.org/2020/06/04/tinyml-how-tvm-is-taming-tiny) - *MicroTVM* is an open source tool to optimize tensor programs.
 - [Edge Impulse](https://edgeimpulse.com/) - Interactive platform to generate models that can run in microcontrollers. They are also quite active on social netwoks talking about recent news on EdgeAI/TinyML.
 - [Qeexo AutoML](https://qeexo.com/ml-platform/) - Interactive platform to generate AI models targetted to microcontrollers.
+- [mlpack](https://www.mlpack.org) - C++ header-only fast machine learning library that focuses on lightweight deployment. It has a wide variety of machine learning algorithms with the possibility to realize on-device learning on MPUs. 
 
 # Other interesting resources
 - [Benchmarking Edge Computing (May 2019)](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
