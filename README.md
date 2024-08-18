@@ -60,7 +60,6 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [mlpack](https://www.mlpack.org) - C++ header-only fast machine learning library that focuses on lightweight deployment. It has a wide variety of machine learning algorithms with the possibility to realize on-device learning on MPUs. 
 - [AIfES](https://github.com/Fraunhofer-IMS/AIfES_for_Arduino) - platform-independent and standalone AI software framework optimized for embedded systems.
 - [onnx2c](https://github.com/kraiskil/onnx2c) - ONNX to C compiler targeting "Tiny ML".
-- [MinUn](https://github.com/ShikharJ/MinUn) - Accurate ML Inference on Microcontrollers.
 
 # Other interesting resources
 - [Benchmarking Edge Computing (May 2019)](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
@@ -70,6 +69,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [TinyML: Machine Learning with TensorFlow on Arduino and Ultra-Low Power Micro-Controllers](http://shop.oreilly.com/product/0636920254508.do) - O'Reilly book written by Pete Warden, Daniel Situnayake.
 - [tinyML Summit](https://www.tinymlsummit.org/) - Annual conference and monthly meetup celebrated in California, USA. Talks and slides are usually [available from the website](https://www.tinymlsummit.org/#meetups).
 - [TinyML Papers and Projects](https://github.com/gigwegbe/tinyml-papers-and-projects) - Compilation of the most recent paper's and projects in the TinyML/EdgeAI field.
+- [MinUn](https://github.com/ShikharJ/MinUn) - Accurate ML Inference on Microcontrollers.
 
 # Contributing
 - Please check for duplicates first.
