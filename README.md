@@ -27,7 +27,8 @@ A curated list of hardware, software, frameworks and other resources for Artific
     - [M5StickV](https://docs.m5stack.com/#/en/core/m5stickv) - AIoT(AI+IoT) Camera powered by Kendryte K210
     - [UNIT-V](https://docs.m5stack.com/#/en/unit/unitv) - AI Camera powered by Kendryte K210 (lower-end M5StickV)
 - [Kendryte K510](https://canaan.io/product/kendryteai) - Tri-core RISC-V processor clocked with AI accelerators.
-- [GreenWaves GAP8](https://greenwaves-technologies.com/en/gap8-product/) - RISC-V-based chip with hardware acceleration for convolutional operations.
+- [GreenWaves GAP8](https://greenwaves-technologies.com/gap8_mcu_ai/) - RISC-V-based chip with hardware acceleration for convolutional operations.
+- [GreenWaves GAP9](https://greenwaves-technologies.com/gap9_processor/) - RISC-V-based chip primarily focused on AI-centric audio processing.
 - [Ultra96](https://www.96boards.ai/products/ultra96/) - Embedded development platform featuring a Xilinx UltraScale+ MPSoC FPGA.
 - [Apollo3 Blue](https://www.sparkfun.com/products/15170) - SparkFun Edge Development Board powered by a Cortex M4 from Ambiq Micro.
 - [Google Coral](https://coral.ai/) - Platform of hardware components and software tools for local AI products based on Google Edge TPU coprocessor.
