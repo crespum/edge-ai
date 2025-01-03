@@ -41,6 +41,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [Maxim MAX78000](https://www.maximintegrated.com/en/products/microcontrollers/MAX78000.html) - SoC based on a Cortex-M4 that includes a CNN accelerator.
 - [Beagleboard BeagleV](https://beagleboard.org/beaglev) - Open Source RISC-V-based Linux board that includes a Neural Network Engine.
 - [Syntiant TinyML](https://www.syntiant.com/tinyml) - Development kit based on the Syntiant NDP101 Neural Decision Processor and a SAMD21 Cortex-M0+.
+- [STM32N6](https://www.st.com/en/microcontrollers-microprocessors/stm32n6-series.html) - Arm Cortex-M55 running at 800MHz that embeds an neural processing unit (NPU).
 
 # Software
 - [TensorFlow Lite](https://www.tensorflow.org/lite/) - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
