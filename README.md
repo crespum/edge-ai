@@ -65,6 +65,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [AIfES](https://github.com/Fraunhofer-IMS/AIfES_for_Arduino) - platform-independent and standalone AI software framework optimized for embedded systems.
 - [onnx2c](https://github.com/kraiskil/onnx2c) - ONNX to C compiler targeting "Tiny ML".
 - [Imagimob](https://www.imagimob.com/) - They offer a toolset (DEEPCRAFT) aimed at developing ML models for embedded devices.
+- [emlearn](https://github.com/emlearn/emlearn) - ML inference engine for microcontrollers and embedded devices.
 
 # Other interesting resources
 - [Benchmarking Edge Computing (May 2019)](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
