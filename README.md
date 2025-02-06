@@ -64,6 +64,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [mlpack](https://www.mlpack.org) - C++ header-only fast machine learning library that focuses on lightweight deployment. It has a wide variety of machine learning algorithms with the possibility to realize on-device learning on MPUs. 
 - [AIfES](https://github.com/Fraunhofer-IMS/AIfES_for_Arduino) - platform-independent and standalone AI software framework optimized for embedded systems.
 - [onnx2c](https://github.com/kraiskil/onnx2c) - ONNX to C compiler targeting "Tiny ML".
+- [Imagimob](https://www.imagimob.com/) - They offer a toolset (DEEPCRAFT) aimed at developing ML models for embedded devices.
 
 # Other interesting resources
 - [Benchmarking Edge Computing (May 2019)](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
