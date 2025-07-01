@@ -67,6 +67,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [Imagimob](https://www.imagimob.com/) - They offer a toolset (DEEPCRAFT) aimed at developing ML models for embedded devices.
 - [emlearn](https://github.com/emlearn/emlearn) - ML inference engine for microcontrollers and embedded devices.
 - [Z-Ant](https://github.com/ZantFoundation/Z-Ant) - SDK for deploying optimized NNs on microcontrollers.
+- [micro:bit CreateAI](https://createai.microbit.org/) - Web-based tool to train an ML model and then run it on a BBC micro:bit V2.
 
 # Other interesting resources
 - [Benchmarking Edge Computing (May 2019)](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
