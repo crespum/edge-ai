@@ -6,7 +6,6 @@ A curated list of hardware, software, frameworks and other resources for Artific
 ## Contents
 - [Hardware](#hardware)
 - [Software](#software)
-- [Frameworks](#frameworks)
 - [Contributing](#other-interesting-resources)
 - [License](#license)
 
@@ -47,7 +46,9 @@ A curated list of hardware, software, frameworks and other resources for Artific
 
 # Software
 - [TensorFlow Lite](https://www.tensorflow.org/lite/) - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
+    - UPDATE: Rebranded to [LiteRT](https://ai.google.dev/edge/litert).
 - [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers) - Port of TF Lite for microcontrollers and other devices with only kilobytes of memory. Born from a [merge with uTensor](https://os.mbed.com/blog/entry/uTensor-and-Tensor-Flow-Announcement/).
+    - UPDATE: Rebranded to [LiteRT for Microcontrollers](https://ai.google.dev/edge/litert/microcontrollers/overview).
 - [Embedded Learning Library (ELL)](https://github.com/Microsoft/ELL) - Microsoft's library to deploy intelligent machine-learned models onto resource constrained platforms and small single-board computers.
 - [uTensor](https://github.com/uTensor/uTensor) - AI inference library based on mbed (an RTOS for ARM chipsets) and TensorFlow.
 - [CMSIS NN](https://arm-software.github.io/CMSIS_5/NN/html/index.html) - A collection of efficient neural network kernels developed to maximize the performance and minimize the memory footprint of neural networks on Cortex-M processor cores.
@@ -68,6 +69,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [emlearn](https://github.com/emlearn/emlearn) - ML inference engine for microcontrollers and embedded devices.
 - [Z-Ant](https://github.com/ZantFoundation/Z-Ant) - SDK for deploying optimized NNs on microcontrollers.
 - [micro:bit CreateAI](https://createai.microbit.org/) - Web-based tool to train an ML model and then run it on a BBC micro:bit V2.
+- [AutoML VS Code Extension](https://github.com/analogdevicesinc/automl-embedded) - Open Source VSCode Extension for training, optimizing and deploying tailored models on Edge platforms using AutoML (uses [Kenning ML framework](https://github.com/antmicro/kenning)).
 
 # Other interesting resources
 - [Benchmarking Edge Computing (May 2019)](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
@@ -78,6 +80,8 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [tinyML Summit](https://www.tinymlsummit.org/) - Annual conference and monthly meetup celebrated in California, USA. Talks and slides are usually [available from the website](https://www.tinymlsummit.org/#meetups).
 - [TinyML Papers and Projects](https://github.com/gigwegbe/tinyml-papers-and-projects) - Compilation of the most recent paper's and projects in the TinyML/EdgeAI field.
 - [MinUn](https://github.com/ShikharJ/MinUn) - Accurate ML Inference on Microcontrollers.
+- [Edge AI Engineering Online Book](https://mjrovai.github.io/EdgeML_Made_Ease_ebook/) - Textbook for IESTI05 Edge AI Engineering at the Federal University of Itajubá (UNIFEI) in Brazil focused primarily on the Raspberry Pi.
+- [How AI on Microcontrollers Actually Works: Operators and Kernels](https://danielmangum.com/posts/ai-microcontrollers-operators-kernels/).
 
 # Contributing
 - Please check for duplicates first.
