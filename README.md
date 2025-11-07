@@ -42,7 +42,8 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [Syntiant TinyML](https://www.syntiant.com/tinyml) - Development kit based on the Syntiant NDP101 Neural Decision Processor and a SAMD21 Cortex-M0+.
 - [STM32N6](https://www.st.com/en/microcontrollers-microprocessors/stm32n6-series.html) - Arm Cortex-M55 running at 800MHz that embeds an neural processing unit (NPU).
 - [Grove Vision AI Module V2](https://www.seeedstudio.com/Grove-Vision-AI-Module-V2-p-5851.html) - Arm Cortex-M55 and Ethos U-55 neural processing unit (NPU).
-- [Arduino Nicla Voice](https://docs.arduino.cc/hardware/nicla-voice) - Soc based on Arm Cortex-M4 nRF52832 and includes the Syntiant NDP120 Neural Decision Processor 
+- [Arduino Nicla Voice](https://docs.arduino.cc/hardware/nicla-voice) - SoC based on Arm Cortex-M4 nRF52832 and includes the Syntiant NDP120 Neural Decision Processor.
+- [NXP DNPUs](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/discrete-neural-processing-units:DNPU) - Discrete Neural Processing Units (DNPUs) hardware accelerators (Kinara aquisition).
 
 # Software
 - [TensorFlow Lite](https://www.tensorflow.org/lite/) - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
