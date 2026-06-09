@@ -74,6 +74,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [micro:bit CreateAI](https://createai.microbit.org/) - Web-based tool to train an ML model and then run it on a BBC micro:bit V2.
 - [AutoML VS Code Extension](https://github.com/analogdevicesinc/automl-embedded) - Open Source VSCode Extension for training, optimizing and deploying tailored models on Edge platforms using AutoML (uses [Kenning ML framework](https://github.com/antmicro/kenning)).
 - [Eclipse Aidge](https://gitlab.eclipse.org/eclipse/aidge/aidge) - Open-source framework for optimizing and deploying deep neural networks on embedded systems.
+- [edge-agents (ForestHub)](https://github.com/ForestHubAI/edge-agents) - Open-source (AGPL-3.0) 30 MB AI agent runtime for edge devices. Offline by default; GPIO/UART/MQTT as first-class nodes; local SLMs alongside cloud LLMs. Runs on Raspberry Pi 5, Jetson Orin Nano, STM32MP25, ctrlX CORE.
 
 # Other interesting resources
 - [Benchmarking Edge Computing (May 2019)](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
