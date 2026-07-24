@@ -76,6 +76,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [Eclipse Aidge](https://gitlab.eclipse.org/eclipse/aidge/aidge) - Open-source framework for optimizing and deploying deep neural networks on embedded systems.
 - [edge-agents (ForestHub)](https://github.com/ForestHubAI/edge-agents) - Open-source (AGPL-3.0) 30 MB AI agent runtime for edge devices. Offline by default; GPIO/UART/MQTT as first-class nodes; local SLMs alongside cloud LLMs. Runs on Raspberry Pi 5, Jetson Orin Nano, STM32MP25, ctrlX CORE.
 - [TiGrIS](https://tigris-ml.dev) - Ahead-of-time compiler that tiles ONNX models to fit microcontrollers with fixed RAM and flash budgets, executed by a dependency-free C runtime.
+- [Xybrid](https://github.com/xybrid-ai/xybrid) - Open-source, local-first runtime for running LLMs, ASR, and TTS natively in apps and games.
 
 # Other interesting resources
 - [Benchmarking Edge Computing (May 2019)](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
