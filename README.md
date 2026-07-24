@@ -1,3 +1,7 @@
+**ARCHIVED**: This used to be a list of interesting resources for my own interests (low power, constrained devices such as STM32 microcontrollers). Of course, there were a few notable exceptions such as the NVIDIA Jetson family, which made sense for some applications such as computer vision. However, nowadyas _contrained_ and _edge_ seems to have turned into >8GB of RAM memory devices. I'm not playing this game.
+
+---
+
 # AI at the edge
 
 A curated list of hardware, software, frameworks and other resources for Artificial Intelligence at the edge. Inspired by [awesome-dataviz](https://github.com/fasouto/awesome-dataviz).
